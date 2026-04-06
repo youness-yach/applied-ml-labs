@@ -32,3 +32,8 @@ venv/
 *.mwb
 *.mp4
 *.mov
+
+# ML datasets (large binaries; notebooks + scripts stay in repo)
+*.mat
+*.npy
+*.pkz

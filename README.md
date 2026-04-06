@@ -8,8 +8,10 @@ Collection of applied machine learning experiments including PCA, time series, s
 - **`structured-data-ml/guided-scripts/`** — MBAN guided structured-data scripts, with datasets and images used in the notebooks.
 - **`islp/`** — *Introduction to Statistical Learning with Python* lab notebooks.
 - **`prml/`** — Pattern Recognition and Machine Learning–style project notebook(s).
+- **`ml-pca/`** — PCA / eigenfaces coursework (`pca work/`, `pca-coursera/`), plus gradient and backpropagation notebooks.
+- **`monte-carlo/`** — Monte Carlo simulations for betting strategies and related analysis (includes `monteCarloLiberal.csv`).
 
-Project files and notebooks are organized by topic. Source data or generated outputs are kept next to related analyses where included.
+Project files and notebooks are organized by topic. Large binary datasets for PCA (`.mat`, `.npy`, `.pkz`) are gitignored—place them locally next to the notebooks if you need to rerun code that loads MNIST or Olivetti.
 
 ## Quick Start
 
