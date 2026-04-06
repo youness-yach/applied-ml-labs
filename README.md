@@ -4,8 +4,12 @@ Collection of applied machine learning experiments including PCA, time series, s
 
 ## Contents
 
-- Project files and notebooks are organized by topic/subfolder.
-- Source data or generated outputs are kept near related analyses.
+- **`ml-models-examples/`** — Classification and regression session notebooks (`ML_models_ex` coursework).
+- **`structured-data-ml/guided-scripts/`** — MBAN guided structured-data scripts, with datasets and images used in the notebooks.
+- **`islp/`** — *Introduction to Statistical Learning with Python* lab notebooks.
+- **`prml/`** — Pattern Recognition and Machine Learning–style project notebook(s).
+
+Project files and notebooks are organized by topic. Source data or generated outputs are kept next to related analyses where included.
 
 ## Quick Start
 
