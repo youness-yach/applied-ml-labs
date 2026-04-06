@@ -1,0 +1,280 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+# Logs
+*.log
+# Local git backups from portfolio cleanup
+.git_backup/
+**/.git_backup/
+# Large artifacts
+*.zip
+*.tar
+*.tar.gz
+
+islp/CH04_ISLP.ipynb
+
+islp/Ch02-statlearn-lab.ipynb
+
+islp/Ch03 -ISLP.ipynb
+
+islp/ISLP.ipynb
+
+ml-models-examples/Classification/Housing_Prices_v1-1 (1).ipynb
+
+ml-models-examples/Classification/Session 7_moneyball (1).ipynb
+
+ml-models-examples/Classification/Session2_v1_5 (1).ipynb
+
+ml-models-examples/Classification/Session_3_v1_0 (1) (1).ipynb
+
+ml-models-examples/Classification/Session_3_v1_0_postclass.ipynb
+
+ml-models-examples/Classification/Session_4_v2_0 (1).ipynb
+
+ml-models-examples/Classification/Session_5 (1).ipynb
+
+ml-models-examples/Classification/Session_6 (1).ipynb
+
+ml-models-examples/Regression/Script_01_Efficient_Base_Modeling_Solution.ipynb
+
+ml-models-examples/Regression/Script_02_Missing_Value_Analysis_and_Transformations_Solution.ipynb
+
+ml-models-examples/Regression/Script_03_Feature_Engineering_Solution.ipynb
+
+ml-models-examples/Regression/Script_04_(optional)_Feature_Engineering_with_Discrete_Data_Solution.ipynb
+
+ml-models-examples/Regression/Script_05_Advanced_Regression_Models_Solution.ipynb
+
+ml-models-examples/Regression/Script_06_KNN_and_Distance_Standardization_Solution.ipynb
+
+ml-models-examples/Regression/Script_07_Ensemble_Models_Solution.ipynb
+
+ml-models-examples/Regression/Script_08_From_Regression_to_Classification_Solution.ipynb
+
+ml-pca/Backpropagation.ipynb
+
+ml-pca/Gradient_Descent.ipynb
+
+ml-pca/pca-coursera/eigenfaces.npy
+
+ml-pca/pca-coursera/load_data.py
+
+ml-pca/pca-coursera/mnist-original.mat
+
+ml-pca/pca-coursera/olivetti_py3.pkz
+
+ml-pca/pca-coursera/readonly/week1.ipynb
+
+ml-pca/pca-coursera/readonly/week2.ipynb
+
+ml-pca/pca-coursera/readonly/week3.ipynb
+
+ml-pca/pca-coursera/readonly/week4.ipynb
+
+ml-pca/pca-coursera/submission.py
+
+ml-pca/pca-coursera/week1.ipynb
+
+ml-pca/pca-coursera/week2.ipynb
+
+ml-pca/pca-coursera/week3.ipynb
+
+ml-pca/pca-coursera/week4.ipynb
+
+ml-pca/pca-work/eigenfaces.npy
+
+ml-pca/pca-work/load_data.py
+
+ml-pca/pca-work/mnist-original.mat
+
+ml-pca/pca-work/numpy_tutorial.ipynb
+
+ml-pca/pca-work/numpy_tutorial_v2.ipynb
+
+ml-pca/pca-work/old/eigenfaces.npy
+
+ml-pca/pca-work/old/load_data.py
+
+ml-pca/pca-work/old/mnist-original.mat
+
+ml-pca/pca-work/old/numpy_tutorial.ipynb
+
+ml-pca/pca-work/old/olivetti_py3.pkz
+
+ml-pca/pca-work/old/week1.ipynb
+
+ml-pca/pca-work/old/week2.ipynb
+
+ml-pca/pca-work/old/week2_knn.ipynb
+
+ml-pca/pca-work/old/week3.ipynb
+
+ml-pca/pca-work/old/week4.ipynb
+
+ml-pca/pca-work/olivetti_py3.pkz
+
+ml-pca/pca-work/week1.ipynb
+
+ml-pca/pca-work/week2.ipynb
+
+ml-pca/pca-work/week2_knn.ipynb
+
+ml-pca/pca-work/week3.ipynb
+
+ml-pca/pca-work/week4.ipynb
+
+ml-pca/pca-work/week4_pca_demonstration.ipynb
+
+ml-pca/week1.ipynb
+
+ml-pca/week2.ipynb
+
+ml-pca/week3.ipynb
+
+ml-pca/week4.ipynb
+
+monte-carlo/D'Alembert Strategy.ipynb
+
+monte-carlo/Dice Rolling Simulation.ipynb
+
+monte-carlo/Find best fit multiple.ipynb
+
+monte-carlo/Labouchere.ipynb
+
+monte-carlo/Martingal Strategy Simulation.ipynb
+
+monte-carlo/Monte Carlo dAlembert 2D plot.ipynb
+
+monte-carlo/README.ipynb
+
+monte-carlo/Strategy Comparison Monte Carlo.ipynb
+
+monte-carlo/monteCarloLiberal.csv
+
+prml/PRML_Project_1.ipynb
+
+python-statistics/Binomial Distribution.txt
+
+python-statistics/Central Limit Theorem.txt
+
+python-statistics/Continuous Distribution.txt
+
+python-statistics/Correlation Caveats.txt
+
+python-statistics/Correlation.txt
+
+python-statistics/Discrete Distribution.txt
+
+python-statistics/Exponential Distributions.txt
+
+python-statistics/Mean and Median.txt
+
+python-statistics/Normal Distribution.txt
+
+python-statistics/Poisson Distribution.txt
+
+python-statistics/Probabilities.txt
+
+python-statistics/Variance and Std.txt
+
+risk-modeling/Exchange rate analysis.ipynb
+
+risk-modeling/Geometry_of_Risk_Global_Market_Decomposition.ipynb
+
+risk-modeling/Live_surface.ipynb
+
+structured-data-ml/Data Dictionary - Chef's Compass(AutoRecovered).xlsx
+
+structured-data-ml/Data Dictionary - Chef's Compass.xlsx
+
+structured-data-ml/Dataset - Chef's Compass.xlsx
+
+structured-data-ml/guided-scripts/Script 01 - Structured Data in Python - Guided.ipynb
+
+structured-data-ml/guided-scripts/Script 02 - Essential DataFrame Methods - Guided.ipynb
+
+structured-data-ml/guided-scripts/Script 03 - Exploratory Data Analysis - Guided.ipynb
+
+structured-data-ml/guided-scripts/Script 04 - The Model Building Framework - Guided.ipynb
+
+structured-data-ml/guided-scripts/Script 05 - Nonparametric Modeling with Regression Trees - Guided.ipynb
+
+structured-data-ml/guided-scripts/analysis-images/Imputation of Carat.png
+
+structured-data-ml/guided-scripts/analysis-images/Imputation of Clarity.png
+
+structured-data-ml/guided-scripts/analysis-images/Imputation of Color.png
+
+structured-data-ml/guided-scripts/analysis-images/Imputation of Cut.png
+
+structured-data-ml/guided-scripts/analysis-images/carat_price_scatter.png
+
+structured-data-ml/guided-scripts/analysis-images/pruned tree.png
+
+structured-data-ml/guided-scripts/datasets/diamonds.xlsx
+
+structured-data-ml/guided-scripts/datasets/diamonds_prepped.xlsx
+
+structured-data-ml/guided-scripts/script-images/boxplot_mathsmadeeasy.png
+
+structured-data-ml/guided-scripts/script-images/boxplot_whatissixsigma.png
+
+structured-data-ml/guided-scripts/script-images/chapter-X3-breakdown-of-info().PNG
+
+structured-data-ml/guided-scripts/script-images/chapter-X3-formatted-describe-table.PNG
+
+structured-data-ml/guided-scripts/script-images/chapter-X3-object-describe-table.PNG
+
+structured-data-ml/guided-scripts/script-images/chapter-X3-suppressed-output.PNG
+
+structured-data-ml/guided-scripts/script-images/chapter-X3-unformatted-describe-table.PNG
+
+structured-data-ml/guided-scripts/script-images/statsmodels_OLS_output_1.png
+
+structured-data-ml/guided-scripts/script-images/statsmodels_OLS_output_2.png
+
+structured-data-ml/guided-scripts/script-images/statsmodels_OLS_output_3.png
+
+structured-data-ml/guided-scripts/script-images/statsmodels_OLS_output_4.png
+
+structured-data-ml/hw_feature_engineering (1).xlsx
+
+structured-data-ml/hw_feature_engineering.xlsx
+
+time-series-python/AR Model.txt
+
+time-series-python/ARMA Model.txt
+
+time-series-python/Autocorrelation Function.txt
+
+time-series-python/Autocorrelation.txt
+
+time-series-python/Cointegration.txt
+
+time-series-python/Correlation of two time Series.txt
+
+time-series-python/Estimate and Forcast MA model.txt
+
+time-series-python/MA Describe Model.txt
+
+time-series-python/Order of AR().txt
+
+time-series-python/Random Walk.txt
+
+time-series-python/Simple Linear regression.txt
+
+time-series-python/Stationarity.txt
+
+time-series-python/Time Series Tools.txt
+
+time-series-python/Ultimate exercise.txt
+
+time-series-python/White Noise.txt
